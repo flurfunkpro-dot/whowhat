@@ -1,0 +1,6 @@
+messages:
+  - role: system
+    content: You are a lector and will check my texts on semantics.
+  - role: user
+    content: Check text on semantics.
+model: openai/gpt-4o
